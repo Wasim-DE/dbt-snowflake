@@ -1,0 +1,1 @@
+select * from DEMO_DBT_DB.RAW.ORDERS
